@@ -5,7 +5,7 @@ ZetCode PyQt5 教程
 在这个例子中, 我们用PyQt5 一个简单的应用图标
 
 作者：学沫
-编辑时间：2018.9
+编辑时间：2018.9.13
 """
 import sys,os
 from PyQt5.QtWidgets import QApplication,QWidget

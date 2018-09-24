@@ -16,7 +16,7 @@ signals and slots 被其他人翻译成信号和槽机制，(⊙o⊙)…我这�
 PyQt5处理事件方面有个signal and slot机制。Signals and slots用于对象间的通讯。事件触发的时候，发生一个signal，slot是用来被Python调用的
 （相当于一个句柄？这个词也好恶心，就是相当于事件的绑定函数）slot只有在事件触发的时候才能调用。
 
-作者：学沫
+作者：十羽
 编辑时间：2018.9.16
 """
 
